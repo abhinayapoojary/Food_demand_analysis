@@ -112,9 +112,6 @@ We use GitHub for versioning.
 # Authors:
 Abhinaya,  Ashwija, Kavana Tilak, Saksha S Bhandary
 
-# License:
-This project is licensed under the Apache 2 License - see the LICENSE file for details.
-
 # Acknowledgements:
 We would like to express our sincere gratitude to our mentor Mr. Gautham Nayak, Social Innovation Program Director for his valuable support, guidance and suggestions in improving our knowledge and navigating us during the two days of Hackathon. 
 
